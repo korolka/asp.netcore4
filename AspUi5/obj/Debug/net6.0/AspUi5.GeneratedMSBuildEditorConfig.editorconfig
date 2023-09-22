@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AspUi5
+build_property.RootNamespace = AspUi5
+build_property.ProjectDir = C:\Users\Vlad\source\repos\AspUi5\AspUi5\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Vlad\source\repos\AspUi5\AspUi5
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Vlad/source/repos/AspUi5/AspUi5/Views/Ex1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXgxXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vlad/source/repos/AspUi5/AspUi5/Views/Ex1/_LayoutForIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXgxXF9MYXlvdXRGb3JJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vlad/source/repos/AspUi5/AspUi5/Views/Ex1/_PatrialForIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXgxXF9QYXRyaWFsRm9ySW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vlad/source/repos/AspUi5/AspUi5/Views/ExternalExAndEx2/MainPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXh0ZXJuYWxFeEFuZEV4MlxNYWluUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vlad/source/repos/AspUi5/AspUi5/Views/ExternalExAndEx2/Menu1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXh0ZXJuYWxFeEFuZEV4MlxNZW51MS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vlad/source/repos/AspUi5/AspUi5/Views/ExternalExAndEx2/Menu2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXh0ZXJuYWxFeEFuZEV4MlxNZW51Mi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vlad/source/repos/AspUi5/AspUi5/Views/ExternalExAndEx2/Menu3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXh0ZXJuYWxFeEFuZEV4MlxNZW51My5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vlad/source/repos/AspUi5/AspUi5/Views/ExternalExAndEx2/Page1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXh0ZXJuYWxFeEFuZEV4MlxQYWdlMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vlad/source/repos/AspUi5/AspUi5/Views/ExternalExAndEx2/Page2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXh0ZXJuYWxFeEFuZEV4MlxQYWdlMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vlad/source/repos/AspUi5/AspUi5/Views/Shared/_LayaoutForMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlhb3V0Rm9yTWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vlad/source/repos/AspUi5/AspUi5/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vlad/source/repos/AspUi5/AspUi5/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

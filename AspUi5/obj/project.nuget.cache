@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X42uL0pZJr1+QK/lDfQ2DYxKcP3ANcKabEGvNzzkcDvmOwOWDFb1lLkQwHvYKJiYaSNDDij33QF/PCnAxuvjNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vlad\\source\\repos\\AspUi5\\AspUi5\\AspUi5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vlad\\.nuget\\packages\\bootstrap\\5.3.2\\bootstrap.5.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}

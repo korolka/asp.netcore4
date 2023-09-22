@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AspUi5.props" />
+</Project>
